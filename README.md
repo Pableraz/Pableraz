@@ -7,14 +7,16 @@
 </p>
 
 <p align="center">
-  Apasionado por robótica, automatización e inteligencia artificial. Actualmente construyendo proyectos con ESP32, Firebase, TensorFlow Lite y más. Buscando oportunidades en USA (TN visa elegible como Ingeniero).
+  Apasionado por robótica, automatización e inteligencia artificial. Actualmente construyendo proyectos con ESP32 y más.
 </p>
 
 ### 🛠️ Skills & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP--IDF-ESP32-green?style=flat&logo=espressif&logoColor=white" alt="ESP-IDF"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-1D2939?style=flat&logo=freertos&logoColor=white" alt="FreeRTOS"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
   <!-- Agrega más según avances: ROS, C++, ML, etc. -->
 </p>
 
