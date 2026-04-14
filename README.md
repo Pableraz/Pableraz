@@ -21,6 +21,6 @@
 
 ### 🚀 Proyectos destacados
 <!-- Aquí irán tus pinned repos una vez los tengas -->
-- [Próximamente] IoT Temperature Monitor con ESP32 + Web Server
+- [Próximamente]
 
 ¡Bienvenido! Revisa mis repositorios abajo ↓
