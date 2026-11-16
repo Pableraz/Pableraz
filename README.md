@@ -74,17 +74,5 @@
   </tr>
 </table>
 
----
-
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pableraz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pableraz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%"/>
-</div>
 
 <br/>
-
-<div align="center">
-  <i>"Transformando ideas mecánicas y electrónicas en sistemas inteligentes conectados."</i>
-</div>
